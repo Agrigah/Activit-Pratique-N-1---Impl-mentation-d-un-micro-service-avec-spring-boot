@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Implémentation d'un micro service.iml" filepath="$PROJECT_DIR$/.idea/Implémentation d'un micro service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bank-account-service/bank-account-service.iml" filepath="$PROJECT_DIR$/bank-account-service/bank-account-service.iml" />
     </modules>
   </component>
 </project>
